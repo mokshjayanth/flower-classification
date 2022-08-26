@@ -6,12 +6,12 @@
 ### ABOUT PROJECT
 
 - Built a total of 3 Models
-- Compared among 3 Models and deployed the best performing model as Web
-Application
 - **First model:** CNN using over 4000 labeled flower images.
 - **Second model:** Same CNN model but trained it by applying the techniques of Data
 Augmentation.
 - **Third model:** Mobilenet V2 Model - Trained at Google. (Transfer Learning)
+- Compared among 3 Models and deployed the best performing model as Web
+Application
 
 ### CONCEPTS USED TO BUILD THE PROJECT
 
